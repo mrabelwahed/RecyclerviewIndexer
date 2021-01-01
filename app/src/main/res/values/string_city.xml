@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_array">
+        <item>Beijing</item>
+        <item>Tianjin City</item>
+        <item>Shanghai</item>
+        <item>Chongqing City</item>
+        <item>Hong Kong Special Administrative Region</item>
+        <item>Macao Special Administrative Region</item>
+        <item>Shenyang City</item>
+        <item>Dalian city</item>
+        <item>Anshan City</item>
+        <item>Fushun City</item>
+        <item>Benxi City</item>
+        <item>Dandong City</item>
+        <item>Jinzhou City</item>
+        <item>Yingkou City</item>
+        <item>Fuxin City</item>
+        <item>Liaoyang City</item>
+        <item>Tieling City</item>
+        <item>Chaoyang City</item>
+        <item>Panjin City</item>
+        <item>Huludao City</item>
+        <item>Harbin City</item>
+        <item>Qiqihar City</item>
+        <item>Jixi City</item>
+        <item>Hegang City</item>
+        <item>Shuangyashan City</item>
+        <item>Daqing City</item>
+        <item>Yichun City</item>
+        <item>Jiamusi City</item>
+        <item>Mudanjiang City</item>
+        <item>Qitaihe City</item>
+        <item>Heihe City</item>
+        <item>Changchun City</item>
+        <item>Jilin City</item>
+        <item>Siping City</item>
+        <item>Liaoyuan City</item>
+        <item>Tonghua City</item>
+        <item>Baishan City</item>
+        <item>Songyuan City</item>
+        <item>White City</item>
+        <item>Yanji City</item>
+        <item>Hohhot City</item>
+        <item>Baotou City</item>
+        <item>Wuhai City</item>
+        <item>Chifeng City</item>
+        <item>Tongliao City</item>
+        <item>Ordos City</item>
+        <item>Hulunbuir City</item>
+        <item>Bayannur City</item>
+        <item>Ulanchab City</item>
+        <item>Ulanhot City</item>
+        <item>Erenhot City</item>
+        <item>Urumqi City</item>
+        <item>Karamay City</item>
+        <item>Turpan City</item>
+        <item>Changji City</item>
+        <item>Bole City</item>
+        <item>Korla City</item>
+        <item>Akesu City</item>
+        <item>Atushi City</item>
+        <item>Kashgar City</item>
+        <item>Hetian City</item>
+        <item>Yining City</item>
+        <item>Tower City</item>
+        <item>Altai City</item>
+        <item>Xining City</item>
+        <item>Lhasa City</item>
+        <item>Lanzhou City</item>
+        <item>Jiayuguan City</item>
+        <item>Jinchang City</item>
+        <item>Silver City</item>
+        <item>Tianshui City</item>
+        <item>Wuwei City</item>
+        <item>Zhangye City</item>
+        <item>Pingliang City</item>
+        <item>Jiuquan City</item>
+        <item>Qingyang City</item>
+        <item>Dingxi City</item>
+        <item>Longnan City</item>
+        <item>Linxia City</item>
+        <item>Partner City</item>
+        <item>Yinchuan City</item>
+        <item>Shizuishan City</item>
+        <item>Wuzhong City</item>
+        <item>Guyuan City</item>
+        <item>Zhongwei City</item>
+        <item>Tongchuan City</item>
+        <item>Baoji City</item>
+        <item>Xianyang City</item>
+        <item>Weinan City</item>
+        <item>Hanzhong City</item>
+        <item>Yulin City</item>
+        <item>Ankang City</item>
+        <item>Shangluo City</item>
+        <item>Taiyuan City</item>
+        <item>Datong City</item>
+        <item>Yangquan City</item>
+        <item>Changzhi City</item>
+        <item>Jincheng City</item>
+        <item>Shuozhou City</item>
+        <item>Jinzhong City</item>
+        <item>Shipping City</item>
+        <item>Xinzhou City</item>
+<!--        <item>Linfen City</ item>-->
+<!--        <item>Luliang City</ item>-->
+<!--        <item>Shijiazhuang City</ item>-->
+<!--        <item>Tangshan City</ item>-->
+<!--        <item>Qinhuangdao City</ item>-->
+<!--        <item>Handan City</ item>-->
+<!--        <item>Xingtai City</ item>-->
+<!--        <item>Baoding City</ item>-->
+<!--        <item>Chengde City</ item>-->
+<!--        <item>Cangzhou City</ item>-->
+<!--        <item>Langfang City</ item>-->
+<!--        <item>Hengshui City</ item>-->
+<!--        <item>Jinan City</ item>-->
+<!--        <item>Qingdao City</ item>-->
+<!--        <item>Zibo City</ item>-->
+<!--        <item>Zaozhuang City</ item>-->
+<!--        <item>Dongying City</ item>-->
+<!--        <item>Yantai City</ item>-->
+<!--        <item>Weifang City</ item>-->
+<!--        <item>Jining City</ item>-->
+<!--        <item>Taian City</ item>-->
+<!--        <item>Weihai City</ item>-->
+<!--        <item>Rizhao City</ item>-->
+<!--        <item>Laiwu City</ item>-->
+<!--        <item>Linyi City</ item>-->
+<!--        <item>Dezhou City</ item>-->
+<!--        <item>Liaocheng City</ item>-->
+<!--        <item>Binzhou City</ item>-->
+<!--        <item>Heze City</ item>-->
+<!--        <item>Nanjing City</ item>-->
+<!--        <item>Wuxi City</ item>-->
+<!--        <item>Xuzhou City</ item>-->
+<!--        <item>Changzhou City</ item>-->
+<!--        <item>Suzhou City</ item>-->
+<!--        <item>Nantong City</ item>-->
+<!--        <item>Lianyungang City</ item>-->
+<!--        <item>Huai'an City</ item>-->
+<!--        <item>Yancheng City</ item>-->
+<!--        <item>Yangzhou City</ item>-->
+<!--        <item>Zhenjiang City</ item>-->
+<!--        <item>Taizhou City</ item>-->
+<!--        <item>Suqian City</ item>-->
+<!--        <item>Hefei City</ item>-->
+<!--        <item>Wuhu City</ item>-->
+<!--        <item>Bengbu City</ item>-->
+<!--        <item>Huainan City</ item>-->
+<!--        <item>Ma'anshan City</ item>-->
+<!--        <item>Huaibei City</ item>-->
+<!--        <item>Tongling City</ item>-->
+<!--        <item>Anqing City</ item>-->
+<!--        <item>Huangshan City</ item>-->
+<!--        <item>Chuzhou City</ item>-->
+<!--        <item>Fuyang City</ item>-->
+<!--        <item>Suzhou City</ item>-->
+<!--        <item>Chaohu City</ item>-->
+<!--        <item>Lu'an City</ item>-->
+<!--        <item>Haozhou City</ item>-->
+<!--        <item>Chizhou City</ item>-->
+<!--        <item>Xuancheng City</ item>-->
+<!--        <item>Zhengzhou City</ item>-->
+<!--        <item>Kaifeng City</ item>-->
+<!--        <item>Luoyang City</ item>-->
+<!--        <item>Pingdingshan City</ item>-->
+<!--        <item>Anyang City</ item>-->
+<!--        <item>Hebi City</ item>-->
+<!--        <item>Xinxiang City</ item>-->
+<!--        <item>Jiaozuo City</ item>-->
+<!--        <item>Puyang City</ item>-->
+<!--        <item>Xuchang City</ item>-->
+<!--        <item>Luohe City</ item>-->
+<!--        <item>Sanmenxia City</ item>-->
+<!--        <item>Nanyang City</ item>-->
+<!--        <item>Shangqiu City</ item>-->
+<!--        <item>Xinyang City</ item>-->
+<!--        <item>Zhoukou City</ item>-->
+<!--        <item>Zhumadian City</ item>-->
+<!--        <item>Wuhan City</ item>-->
+<!--        <item>Huangshi City</ item>-->
+<!--        <item>Shiyan City</ item>-->
+<!--        <item>Yichang City</ item>-->
+<!--        <item>Xiangfan City</ item>-->
+<!--        <item>Ezhou City</ item>-->
+<!--        <item>Jingmen City</ item>-->
+<!--        <item>Xiaogan City</ item>-->
+<!--        <item>Jingzhou City</ item>-->
+<!--        <item>Huanggang City</ item>-->
+<!--        <item>Xianning City</ item>-->
+<!--        <item>Suizhou City</ item>-->
+<!--        <item>Enshi City</ item>-->
+<!--        <item>Chengdu City</ item>-->
+<!--        <item>Zigong City</ item>-->
+<!--        <item>Panzhihua City</ item>-->
+<!--        <item>Luzhou City</ item>-->
+<!--        <item>Deyang City</ item>-->
+<!--        <item>Mianyang City</ item>-->
+<!--        <item>Guangyuan City</ item>-->
+<!--        <item>Suining City</ item>-->
+<!--        <item>Neijiang City</ item>-->
+<!--        <item>Leshan City</ item>-->
+<!--        <item>Nanchong City</ item>-->
+<!--        <item>Meishan City</ item>-->
+<!--        <item>Yibin City</ item>-->
+<!--        <item>Inner Guang'an City</ item>-->
+<!--        <item>Dazhou City</ item>-->
+<!--        <item>Ya'an city</ item>-->
+<!--        <item>Bazhong City</ item>-->
+<!--        <item>Ziyang City</ item>-->
+<!--        <item>Kunming City</ item>-->
+<!--        <item>Qujing City</ item>-->
+<!--        <item>Yuxi City</ item>-->
+<!--        <item>Baoshan City</ item>-->
+<!--        <item>Zhaotong City</ item>-->
+<!--        <item>Lijiang City</ item>-->
+<!--        <item>Simao City</ item>-->
+<!--        <item>Lincang City</ item>-->
+<!--        <item>Guiyang City</ item>-->
+<!--        <item>Liupanshui City</ item>-->
+<!--        <item>Zunyi City</ item>-->
+<!--        <item>Anshun City</ item>-->
+<!--        <item>Tongren City</ item>-->
+<!--        <item>Xingyi City</ item>-->
+<!--        <item>Bijie City</ item>-->
+<!--        <item>Kaili City</ item>-->
+<!--        <item>Duyun City</ item>-->
+<!--        <item>Changsha City</ item>-->
+<!--        <item>Zhuzhou City</ item>-->
+<!--        <item>Xiangtan City</ item>-->
+<!--        <item>Hengyang City</ item>-->
+<!--        <item>Shaoyang City</ item>-->
+<!--        <item>Yueyang City</ item>-->
+<!--        <item>Changde City</ item>-->
+<!--        <item>Zhangjiajie City</ item>-->
+<!--        <item>Yiyang City</ item>-->
+<!--        <item>Chenzhou City</ item>-->
+<!--        <item>Yongzhou City</ item>-->
+<!--        <item>Huaihua City</ item>-->
+<!--        <item>Loudi City</ item>-->
+<!--        <item>Jishou City</ item>-->
+<!--        <item>Nanchang City</ item>-->
+<!--        <item>Pingxiang City</ item>-->
+<!--        <item>Jiujiang City</ item>-->
+<!--        <item>Xinyu City</ item>-->
+<!--        <item>Yingtan City</ item>-->
+<!--        <item>Ganzhou City</ item>-->
+<!--        <item>Ji'an City</ item>-->
+<!--        <item>Yichun City</ item>-->
+<!--        <item>Fuzhou City</ item>-->
+<!--        <item>Shangrao City</ item>-->
+<!--        <item>Hangzhou City</ item>-->
+<!--        <item>Ningbo City</ item>-->
+<!--        <item>Wenzhou City</ item>-->
+<!--        <item>Jiaxing City</ item>-->
+<!--        <item>Huzhou City</ item>-->
+<!--        <item>Shaoxing City</ item>-->
+<!--        <item>Jinhua City</ item>-->
+<!--        <item>Quzhou City</ item>-->
+<!--        <item>Zhoushan City</ item>-->
+<!--        <item>Taizhou</ item>-->
+<!--        <item>Lishui City</ item>-->
+<!--        <item>Fuzhou City</ item>-->
+<!--        <item>Xiamen City</ item>-->
+<!--        <item>Putian City</ item>-->
+<!--        <item>Sanming City</ item>-->
+<!--        <item>Quanzhou City</ item>-->
+<!--        <item>Zhangzhou City</ item>-->
+<!--        <item>Nanping City</ item>-->
+<!--        <item>Longyan City</ item>-->
+<!--        <item>Ningde City</ item>-->
+<!--        <item>Guangzhou City</ item>-->
+<!--        <item>Shaoguan City</ item>-->
+<!--        <item>Shenzhen</ item>-->
+<!--        <item>Zhuhai City</ item>-->
+<!--        <item>Shantou City</ item>-->
+<!--        <item>Foshan City</ item>-->
+<!--        <item>Jiangmen City</ item>-->
+<!--        <item>Zhanjiang City</ item>-->
+<!--        <item>Maoming City</ item>-->
+<!--        <item>Zhaoqing City</ item>-->
+<!--        <item>Huizhou</ item>-->
+<!--        <item>Meizhou City</ item>-->
+<!--        <item>Shanwei City</ item>-->
+<!--        <item>Heyuan City</ item>-->
+<!--        <item>Yangjiang City</ item>-->
+<!--        <item>Qingyuan City</ item>-->
+<!--        <item>Dongguan City</ item>-->
+<!--        <item>Zhongshan City</ item>-->
+<!--        <item>Chaozhou City</ item>-->
+<!--        <item>Jieyang City</ item>-->
+<!--        <item>Yunfu City</ item>-->
+<!--        <item>Nanning City</ item>-->
+<!--        <item>Liuzhou City</ item>-->
+<!--        <item>Guilin City</ item>-->
+<!--        <item>Wuzhou City</ item>-->
+<!--        <item>Beihai City</ item>-->
+<!--        <item>Fangchenggang City</ item>-->
+<!--        <item>Qinzhou City</ item>-->
+<!--        <item>Guigang City</ item>-->
+<!--        <item>Yulin City</ item>-->
+<!--        <item>Baise City</ item>-->
+<!--        <item>Hezhou City</ item>-->
+<!--        <item>Hechi City</ item>-->
+<!--        <item>Laibin City</ item>-->
+<!--        <item>Chongzuo City</ item>-->
+<!--        <item>Haikou City</ item>-->
+<!--        <item>Sanya City</ item>-->
+<!--        <item>Taipei City</ item>-->
+<!--        <item>Kaohsiung City</ item>-->
+<!--        <item>Taichung City</ item>-->
+    </string-array>
+</resources>
